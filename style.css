@@ -192,7 +192,8 @@ nav a:hover {
   color: #e2e8f0;
   opacity: 0;
   animation: fadeUp 1s 0.8s ease forwards;
-  max-width: 650px;
+  max-width: 950px;
+  width: 100%;
   line-height: 1.7;
   text-shadow: 0 5px 15px rgba(0,0,0,0.5);
 }
